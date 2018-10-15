@@ -10,10 +10,10 @@ Regular(400), Bold(700), Extra Bold(800), Light(300) 지원됩니다.
 ## 사용방법
 
 ### link 방식 (권장)
-	<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css">
+	<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css">
 
 ### import 방식
-	@import url(https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css);
+	@import url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 
 ## 적용
 ### css (예)
