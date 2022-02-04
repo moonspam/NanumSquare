@@ -17,7 +17,7 @@ Regular(400), Bold(700), Extra Bold(800), Light(300) 지원됩니다.
 
 ## 적용
 ### css (예)
-	body		{ font-family: 'NanumSquare', sans-serif; }
+	body		{ font-family: 나눔스퀘어, 'NanumSquare', sans-serif; }
 	.normal		{ font-weight: 400 }
 	.bold		{ font-weight: 700 }
 	.bolder		{ font-weight: 800 }
